@@ -9,12 +9,12 @@ module.exports = {
   // basic site info (required)
   name: 'Zorron的个人博客',
   domain: 'https://www.notion.so/zorron/Zorron-223e66b0d54744849b6390820bd5e453',
-  author: 'Zhonglong Liang',
+  author: 'Zhonglong Liang - 梁钟龙',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
-  socialImageSubtitle: 'Hello World! 👋',
+  description: '梁钟龙的个人博客',
+  socialImageTitle: 'Zhonglong Liang',
+  socialImageSubtitle: 'Hello! Welcome to Zorron\'s World👋',
 
   // social usernames (optional)
   twitter: '',
@@ -23,7 +23,7 @@ module.exports = {
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: null,
+  defaultPageIcon: 'public/dragon_icons/icon-20-ipad.png',
   defaultPageCover: null,
   defaultPageCoverPosition: 0.5,
 
