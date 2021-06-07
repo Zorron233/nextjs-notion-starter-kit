@@ -8,11 +8,11 @@ module.exports = {
 
   // basic site info (required)
   name: 'CodeDragon · 程序龙',
-  domain: 'https://www.notion.so/zorron/Zorron-223e66b0d54744849b6390820bd5e453',
+  domain: 'https://www.notion.so/zorron/CodeDragon-223e66b0d54744849b6390820bd5e453',
   author: 'CodeDragon · 程序龙',
 
   // open graph metadata (optional)
-  description: 'CodeDragon · 程序龙的个人博客',
+  description: '欢迎来到程序龙的世界',
   socialImageTitle: 'CodeDragon · 程序龙',
   socialImageSubtitle: 'Hello! Welcome to CodeDragon\'s World👋',
 
